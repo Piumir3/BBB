@@ -1,0 +1,84 @@
+ {
+"user1" :[
+ {
+"email": "BBB",
+"password":"4567",
+"Name": "BBB"
+ }
+],
+ 
+"summary":[
+{
+ "Name": "Total",
+"value": "800"
+},
+{
+ "Name": "Total",
+"value": "700"
+},
+{
+ "Name": "Total",
+"value": "400"
+}
+],
+
+ 
+ ],
+ "singleBaChartData": [
+    {
+      "id": 1,
+      "category": "2001",
+      "value": 8
+    },
+    {
+      "id": 2,
+      "category": "2002",
+      "value": 9
+    },
+    {
+      "id": 3,
+      "category": "2003",
+      "value": 2
+    },
+    {
+      "id": 4,
+      "category": "2004",
+      "value": 8
+    },
+    {
+      "id": 5,
+      "category": "2005",
+      "value": 3
+    },
+    {
+      "id": 6,
+      "category": "2006",
+      "value": 9
+    }
+  ],
+ 
+"pieData": [
+  {
+    "id": 1,
+    "kind": "North",
+    "share": 491 064.51
+  },
+  {
+    "id": 2,
+    "kind": "East",
+    "share": 283 445.43
+  },
+  {
+    "id": 3,
+    "kind": "South",
+    "share": 	128 753.87
+  },
+  {
+    "id": 4,
+    "kind": "West",
+    "share": 263 391.13
+  } 
+
+
+]
+}
