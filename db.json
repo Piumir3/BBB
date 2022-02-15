@@ -20,7 +20,7 @@
   {"id": 6,"category": "Jul","value": 70}],
 
 "pieData": {
- "name": "Pie Chart TOTAL REVENUE",
+ "name": "Pie Chart - TOTAL REVENUE",
  "Title": "TOTAL REVENUE",
  "pieData": [{"id": 1,"kind": "North","share": 491},
              {"id": 2, "kind": "East","share": 283},
