@@ -12,7 +12,7 @@
 
   "singleBaChartData": {
  "name": "singleBaChartData-TOTAL Production-Month ",
- "Title": "TOTAL REVENUE",
+ "Title": "TOTAL Production-Month",
  "singleBaChartData": [
   {"id": 1,"category": "Jan","value": 80},
   {"id": 2,"category": "Feb","value": 40},
