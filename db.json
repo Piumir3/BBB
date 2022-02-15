@@ -23,7 +23,7 @@
 ],
 
  
- ],
+ 
  "singleBaChartData": [
     {
       "id": 1,
@@ -61,22 +61,22 @@
   {
     "id": 1,
     "kind": "North",
-    "share": 491 064.51
+    "share": 491
   },
   {
     "id": 2,
     "kind": "East",
-    "share": 283 445.43
+    "share": 283
   },
   {
     "id": 3,
     "kind": "South",
-    "share": 	128 753.87
+    "share": 	128
   },
   {
     "id": 4,
     "kind": "West",
-    "share": 263 391.13
+    "share": 263
   } 
 
 
