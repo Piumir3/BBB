@@ -1,84 +1,32 @@
  {
 "user1" :[
- {
-"email": "BBB",
-"password":"4567",
-"Name": "BBB"
- }
-],
+ {"email": "BBB",
+  "password":"4567",
+  "Name": "BBB"
+ }],
  
 "summary":[
-{
- "Name": "Total",
-"value": "800"
-},
-{
- "Name": "Total",
-"value": "700"
-},
-{
- "Name": "Total",
-"value": "400"
-}
-],
+{"Name": "Total","value": "900"},
+{"Name": "Total","value": "400"},
+{"Name": "Total","value": "1000"}],
 
- 
  
  "singleBaChartData": [
-    {
-      "id": 1,
-      "category": "2001",
-      "value": 8
-    },
-    {
-      "id": 2,
-      "category": "2002",
-      "value": 9
-    },
-    {
-      "id": 3,
-      "category": "2003",
-      "value": 2
-    },
-    {
-      "id": 4,
-      "category": "2004",
-      "value": 8
-    },
-    {
-      "id": 5,
-      "category": "2005",
-      "value": 3
-    },
-    {
-      "id": 6,
-      "category": "2006",
-      "value": 9
-    }
-  ],
- 
-"pieData": [
-  {
-    "id": 1,
-    "kind": "North",
-    "share": 491
-  },
-  {
-    "id": 2,
-    "kind": "East",
-    "share": 283
-  },
-  {
-    "id": 3,
-    "kind": "South",
-    "share": 	128
-  },
-  {
-    "id": 4,
-    "kind": "West",
-    "share": 263
-  } 
+  {"id": 1,"category": "Jan","value": 80},
+  {"id": 2,"category": "Feb","value": 40},
+  {"id": 3,"category": "March","value": 60},
+  {"id": 4,"category": "Apr","value": 70},
+  {"id": 5,"category": "Jun","value": 50},
+  {"id": 6,"category": "Jul","value": 70}],
 
-
-]
+"pieData": {
+ "name": "Pie Chart TOTAL REVENUE",
+ "Title": "TOTAL REVENUE",
+ "pieData": [{"id": 1,"kind": "North","share": 491},
+             {"id": 2, "kind": "East","share": 283},
+             {"id": 3,"kind": "South","share": 128},
+             {"id": 4,"kind": "West","share": 263}
+            
+            ]
+}
 }
