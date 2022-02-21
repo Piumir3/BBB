@@ -12,7 +12,7 @@
 
   "singleBaChartData": {
  "name": "singleBaChartData-TOTAL Production-Month ",
- "Title": "TOTAL Production-Month",
+ "Title": "TOTAL Production-January",
  "singleBaChartData":  [
   {"label": "Apple","value": "810000","link": "newchart-xml-apple"},        
   {"label": "Cranberry","value": "620000","link": "newchart-xml-cranberry"},
