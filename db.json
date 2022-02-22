@@ -6,11 +6,11 @@
  }],
  
 "summary":[
-{"SellOut": "2.9M"},
-{"Achievement": "9%"},
-{"ASO": "12K"},
-{"VPO":"12K"},
-{"SOperDistributor":"5M"}],
+{"name":"Sell Out","amount": "3.9M","Description":"Total Sales Amount"},
+{"name":"+Achievement %","amount": "99%","Description":"Sell Out/Target"},
+{"name":"ASO","amount": "377K","Description":"Achieve Service Outlet"},
+{"name":"VPO","amount": "52M","Description":"Value Per Active Service Outlet"},
+{"name":"Sell Out per Distributor","amount": "3M","Description":"Average Sell Out per Distributor"}],
 
   "singleBaChartData": {
  "name": "singleBaChartData-TOTAL REVENUE",
