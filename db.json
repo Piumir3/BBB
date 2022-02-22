@@ -16,7 +16,7 @@
  "singleBaChartData":  [
   {"label": "Jan","value": "6000","link": "newchart-xml-apple"},        
   {"label": "Feb","value": "3600","link": "newchart-xml-cranberry"},
-  {"label": "Mar","value": "3000","link": "newchart-xml-grapes"},
+  {"label": "Mar","value": "3000","link": "newchart-xml-grapes"}
    {"label": "Apr","value": "1500","link": "newchart-xml-grapes"}],
   "linkeddata":[{
             "id": "apple",
