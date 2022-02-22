@@ -75,7 +75,7 @@
     ]
  },
 "pieData": {
- "name": "Pie Chart - TOTAL REVENUE user Name",
+ "name": "Pie Chart - TOTAL REVENUE ",
  "Title": "TOTAL REVENUE",
  "pieData": [{"id": 1,"kind": "2001","share": 91},
              {"id": 2, "kind": "2002","share": 83},
@@ -90,11 +90,11 @@
             ]
 },
   "stackedbarchartdata": {
-    "name": "Stacked Bar Chart- World Population by Broad Age Groups",
+    "name": "Profit volume",
     "Title": "Profit volume",
     "stackedbarchartdata": [
       {
-        "name": "2001",
+        "name": "Jan",
         "data": [
           -7.848,
           -9.284,
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "name": "2002",
+        "name": "Feb",
         "data": [
           -7.175,
           -6.376,
