@@ -75,10 +75,12 @@
 "pieData": {
  "name": "Pie Chart - TOTAL REVENUE user Name",
  "Title": "TOTAL REVENUE",
- "pieData": [{"id": 1,"kind": "North","share": 491},
-             {"id": 2, "kind": "East","share": 283},
-             {"id": 3,"kind": "South","share": 128},
-             {"id": 4,"kind": "West","share": 263}
+ "pieData": [{"id": 1,"kind": "jan","share": 91},
+             {"id": 2, "kind": "Feb","share": 83},
+             {"id": 3,"kind": "Mar","share": 128},
+             {"id": 4,"kind": "Apr","share": 23},
+             {"id": 5,"kind": "May","share": 28},
+             {"id": 6,"kind": "Jun","share": 23},
             
             ]
 },
