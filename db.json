@@ -12,11 +12,12 @@
 
   "singleBaChartData": {
  "name": "singleBaChartData-TOTAL Production-Month ",
- "Title": "TOTAL Production-January",
+ "Title": "TOTAL Production-2017",
  "singleBaChartData":  [
-  {"label": "Apple","value": "810000","link": "newchart-xml-apple"},        
-  {"label": "Cranberry","value": "620000","link": "newchart-xml-cranberry"},
-  {"label": "Grapes","value": "350000","link": "newchart-xml-grapes"}],
+  {"label": "Jan","value": "6000","link": "newchart-xml-apple"},        
+  {"label": "Feb","value": "3600","link": "newchart-xml-cranberry"},
+  {"label": "Mar","value": "3000","link": "newchart-xml-grapes"}
+   {"label": "Apr","value": "1500","link": "newchart-xml-grapes"}],
   "linkeddata":[{
             "id": "apple",
             "linkedchart": {
