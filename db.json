@@ -6,9 +6,11 @@
  }],
  
 "summary":[
-{"Name": "Total","value": "900"},
-{"Name": "Total","value": "400"},
-{"Name": "Total","value": "1000"}],
+{"SellOut": "2.9M"},
+{"Achievement": "9%"},
+{"ASO": "12K"},
+{"VPO":"12K"},
+{"SOperDistributor":"5M"}],
 
   "singleBaChartData": {
  "name": "singleBaChartData-TOTAL REVENUE",
