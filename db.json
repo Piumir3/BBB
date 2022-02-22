@@ -11,15 +11,14 @@
 {"Name": "Total","value": "1000"}],
 
   "singleBaChartData": {
- "name": "singleBaChartData-TOTAL Production-Month ",
- "Title": "TOTAL Production-2017",
- "singleBaChartData":  [
-  {"label": "Jan","value": "6000","link": "newchart-xml-apple"},        
-  {"label": "Feb","value": "3600","link": "newchart-xml-cranberry"},
-  {"label": "Mar","value": "3000","link": "newchart-xml-grapes"},
-  {"label": "Apr","value": "1500","link": "newchart-xml-grapes"}],
+ "name": "singleBaChartData-TOTAL REVENUE",
+ "Title": "Total Sales Amount",
+ "singleBaChartData": [
+  {"label": "2018","value": "810000","link": "newchart-xml-apple"},        
+  {"label": "2019","value": "620000","link": "newchart-xml-cranberry"},
+  {"label": "2020","value": "350000","link": "newchart-xml-grapes"}],
   "linkeddata":[{
-            "id": "apple",
+            "id": "2018",
             "linkedchart": {
                 "chart": {
                     "caption": "Apple Juice - Quarterly Sales",
@@ -36,7 +35,7 @@
             }
         },
         {
-            "id": "cranberry",
+            "id": "2019",
             "linkedchart": {
                 "chart": {
                     "caption": "Cranberry Juice - Quarterly Sales",
@@ -52,7 +51,7 @@
             }
         },
         {
-            "id": "grapes",
+            "id": "2020",
             "linkedchart": {
                 "chart": {
                     "caption": "Grapes Juice - Quarterly Sales",
@@ -70,8 +69,7 @@
             }
         }
     ]
-  },
-
+ },
 "pieData": {
  "name": "Pie Chart - TOTAL REVENUE user Name",
  "Title": "TOTAL REVENUE",
