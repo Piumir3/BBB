@@ -73,24 +73,25 @@
 "pieData": {
  "name": "Pie Chart - TOTAL REVENUE user Name",
  "Title": "TOTAL REVENUE",
- "pieData": [{"id": 1,"kind": "jan","share": 91},
-             {"id": 2, "kind": "Feb","share": 83},
-             {"id": 3,"kind": "Mar","share": 128},
-             {"id": 4,"kind": "Apr","share": 23},
-             {"id": 5,"kind": "May","share": 28},
-             {"id": 6,"kind": "Jun","share": 23}
+ "pieData": [{"id": 1,"kind": "2001","share": 91},
+             {"id": 2, "kind": "2002","share": 83},
+             {"id": 3,"kind": "2003","share": 128},
+             {"id": 4,"kind": "2004","share": 23},
+             {"id": 5,"kind": "2005","share": 28},
+             {"id": 6,"kind": "2006","share": 23},
+             {"id": 7,"kind": "2007","share": 13},
+             {"id": 8,"kind": "2008","share": 8},
+             {"id": 9,"kind": "2009","share": 33}
             
             ]
 },
   "stackedbarchartdata": {
     "name": "Stacked Bar Chart- World Population by Broad Age Groups",
-    "Title": "World Population by Broad Age Groups",
+    "Title": "Profit volume",
     "stackedbarchartdata": [
       {
-        "name": "Jan",
+        "name": "2001",
         "data": [
-          3.907,
-          7.943,
           7.848,
           9.284,
           9.263,
@@ -102,10 +103,8 @@
         ]
       },
       {
-        "name": "Feb",
+        "name": "2002",
         "data": [
-          4.743,
-          7.295,
           7.175,
           6.376,
           8.153,
@@ -119,8 +118,6 @@
       {
         "name": "Mar",
         "data": [
-          0.01,
-          -0.375,
           1.161,
           0.684,
           3.7,
@@ -134,8 +131,6 @@
       {
         "name": "Apr",
         "data": [
-          1.988,
-          2.733,
           3.994,
           3.464,
           4.001,
