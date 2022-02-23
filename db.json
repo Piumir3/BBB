@@ -14,8 +14,8 @@
  "Title": "Sell out by Year",
  "singleBaChartData": [
   {"label": "2018","value": "35000","link": "newchart-xml-apple"},        
-  {"label": "2019","value": "960000","link": "newchart-xml-cranberry"},
-  {"label": "2020","value": "120000","link": "newchart-xml-grapes"}],
+  {"label": "2019","value": "460000","link": "newchart-xml-cranberry"}
+ ],
   "linkeddata":[{
             "id": "2018",
             "linkedchart": {
