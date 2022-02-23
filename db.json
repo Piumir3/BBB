@@ -14,7 +14,7 @@
 
   "singleBaChartData": {
  "name": "singleBaChartData-TOTAL REVENUE",
- "Title": "Total Sales Amount",
+ "Title": "Sell out by Business Area",
  "singleBaChartData": [
   {"label": "Jan","value": "6700","link": "newchart-xml-apple"},        
   {"label": "Feb","value": "3400","link": "newchart-xml-cranberry"},
