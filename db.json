@@ -1,26 +1,21 @@
  {
-"user1" :[
- {"email": "BBB",
-  "password":"4567",
-  "Name": "BBB"
- }],
+ 
  
 "summary":[
-{"name":"Sell Out","amount": "3.9M","Description":"Total Sales Amount"},
-{"name":"+Achievement %","amount": "99%","Description":"Sell Out/Target"},
-{"name":"ASO","amount": "377K","Description":"Achieve Service Outlet"},
-{"name":"VPO","amount": "52M","Description":"Value Per Active Service Outlet"},
-{"name":"Sell Out per Distributor","amount": "3M","Description":"Average Sell Out per Distributor"}],
+{"name":"Sell Out","amount": "1.9M","Description":"Total Sales Amount","status":"up"},
+{"name":"+Achievement %","amount": "49%","Description":"Sell Out/Target","status":"down"},
+{"name":"ASO","amount": "127K","Description":"Achieve Service Outlet","status":"equal"},
+{"name":"VPO","amount": "12M","Description":"Value Per Active Service Outlet","status":"down"},
+{"name":"Sell Out per Distributor","amount": "2M","Description":"Average Sell Out per Distributor","status":"up"}
+],
 
-  "singleBaChartData": {
+ "singleBaChartData": {
  "name": "singleBaChartData-TOTAL REVENUE",
- "Title": "Sell out by Business Area",
+ "Title": "Sell out by Year",
  "singleBaChartData": [
-  {"label": "Jan","value": "6700","link": "newchart-xml-apple"},        
-  {"label": "Feb","value": "3400","link": "newchart-xml-cranberry"},
-  {"label": "Mar","value": "5000","link": "newchart-xml-grapes"},
- {"label": "Apr","value": "200","link": "newchart-xml-cranberry"},
-  {"label": "May","value": "3500","link": "newchart-xml-grapes"}],
+  {"label": "2018","value": "810000","link": "newchart-xml-apple"},        
+  {"label": "2019","value": "620000","link": "newchart-xml-cranberry"},
+  {"label": "2020","value": "350000","link": "newchart-xml-grapes"}],
   "linkeddata":[{
             "id": "2018",
             "linkedchart": {
@@ -74,77 +69,58 @@
         }
     ]
  },
+
 "pieData": {
- "name": "Pie Chart - TOTAL REVENUE ",
- "Title": "TOTAL REVENUE",
- "pieData": [{"id": 1,"kind": "2001","share": 91},
-             {"id": 2, "kind": "2002","share": 83},
-             {"id": 3,"kind": "2003","share": 128},
-             {"id": 4,"kind": "2004","share": 23},
-             {"id": 5,"kind": "2005","share": 28},
-             {"id": 6,"kind": "2006","share": 23},
-             {"id": 7,"kind": "2007","share": 13},
-             {"id": 8,"kind": "2008","share": 8},
-             {"id": 9,"kind": "2009","share": 33}
-            
+ "name": "Sellout By Product Category",
+ "Title": "Sellout By Product Category",
+ "pieData": [{"id": 1,"kind": "TOT","share": 0.2545},
+             {"id": 2, "kind": "CSD","share": 0.1552},
+             {"id": 3,"kind": "NCB","share": 0.4059}
+             
             ]
 },
-  "stackedbarchartdata": {
-    "name": "Profit volume",
-    "Title": "Profit volume",
-    "stackedbarchartdata": [
-      {
-        "name": "Jan",
-        "data": [
-          -7.848,
-          -9.284,
-          9.263,
-          9.801,
-          3.89,
-          8.238,
-          9.552,
-          6.855
-        ]
-      },
-      {
-        "name": "Feb",
-        "data": [
-          -7.175,
-          -6.376,
-          8.153,
-          8.535,
-          5.247,
-          -7.832,
-          4.3,
-          4.3
-        ]
-      },
-      {
-        "name": "Mar",
-        "data": [
-          -1.161,
-          -0.684,
-          3.7,
-          3.269,
-          1.083,
-          -5.127,
-          3.69,
-          2.995
-        ]
-      },
-      {
-        "name": "Apr",
-        "data": [
-          -3.994,
-          -3.464,
-          -4.001,
-          3.939,
-          1.333,
-          -2.245,
-          4.339,
-          2.727
-        ]
-      }
-    ]
-  }
+ "stackedbarchartdata":{
+ "name": "Sellout By Town",
+ "Title": "Sellout By Town",
+ "stackedbarchartdata":[{
+    "name": "Colombo",
+    "data": [3.907, 7.943, 7.848, 9.284, 9.263, 9.801, 3.890, 8.238, 9.552, 6.855]
+  }, {
+    "name": "Candy",
+    "data": [4.743, 7.295, 7.175, 6.376, 8.153, 8.535, 5.247, 7.832, 4.3, 4.3]
+  }, {
+    "name": "Avissavella",
+    "data": [0.010, 0.375, 1.161, 0.684, 3.7, 3.269, 1.083, 5.127, 3.690, 2.995]
+  }, {
+    "name": "Peradeniya",
+    "data": [1.988, 2.733, 3.994, 3.464, 4.001, 3.939, 1.333, 2.245, 4.339, 2.727]
+  },
+    {
+    "name": "Galle",
+    "data": [1.988, 2.733, 3.994, 3.464, 4.001, 3.939, 1.333, 2.245, 4.339, 2.727]
+  },
+   {
+    "name": "Matara",
+    "data": [1.988, 2.733, 3.994, 3.464, 4.001, 3.939, 1.333, 2.245, 4.339, 2.727]
+  }]
+  
+ },
+  "Areachartdata":{
+ "name": "Sell out Trending",
+ "Title": "Sell out Trending",
+ "Areachartdata":[{
+    "name": "2017",
+    "data": [3.907, 7.943, 7.848, 9.284, 9.263, 9.801, 3.890, 8.238, 9.552, 6.855]
+  }, {
+    "name": "2018",
+    "data": [4.743, 7.295, 7.175, 6.376, 8.153, 8.535, 5.247, 7.832, 4.3, 4.3]
+  }, {
+    "name": "2019",
+    "data": [0.010, 0.375, 1.161, 0.684, 3.7, 3.269, 1.083, 5.127, 3.690, 2.995]
+  }, {
+    "name": "2020",
+    "data": [1.988, 2.733, 3.994, 3.464, 4.001, 3.939, 1.333, 2.245, 4.339, 2.727]
+  }]
+  
+ }
 }
