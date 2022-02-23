@@ -74,8 +74,8 @@
  "name": "Sellout By Product Category",
  "Title": "Sellout By Product Category",
  "pieData": [{"id": 1,"kind": "TOT","share": 0.74},
-             {"id": 2, "kind": "CSD","share": 0.152},
-             {"id": 3,"kind": "NCB","share": 0.49}
+             {"id": 2, "kind": "CSD","share": 0.152}
+           
              
             ]
 },
